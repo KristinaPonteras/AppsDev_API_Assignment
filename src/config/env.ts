@@ -10,3 +10,4 @@ export const ENV = {
     BACKEND_URL: process.env.BACKEND_URL || 'http://localhost:8000',
     DATABASE_URL: process.env.DATABASE_URL,
 };
+
