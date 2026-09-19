@@ -3,7 +3,7 @@ import cors from "cors";
 import cookieParser from "cookie-parser";
 import helmet from "helmet";
 import hpp from "hpp";
-import { ENV } from "./config/env";
+import { ENV } from "@/config/env";
 
 const app = express();
 
